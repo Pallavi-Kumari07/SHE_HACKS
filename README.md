@@ -1,7 +1,9 @@
 This is a website project on Tour and Travel.
 The westite is " HUSTLA' - Tour n Travel "
+The Youtube link to the complete functionality as well as UI/UX of this website is as follows :
+https://youtu.be/JNXS0Ap99aQ
 
-Stack used : HTML, CSS, Javascript, SQL, PHP, XAMPP.
+Tech-Stack used : HTML, CSS, Javascript, SQL, PHP, XAMPP.
 
 To access the website, first the system must have Xampp downloaded beforehand. Once it is available,
 create a database in it named "she_hacks" by doing manually or by using query "CREATE DATABASE she_hacks;".
@@ -41,3 +43,4 @@ Following are the functionalities provided by the application :
 8. Valid Coupons
 9. Inquiries
 10. Logout
+
