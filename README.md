@@ -1,5 +1,5 @@
 This is a website project on Tour and Travel.
-The westite is " HUSTLA' - Tour n Travel "
+The westite is " HUSTLA' - Tour n Travel ".
 The Youtube link to the complete functionality as well as UI/UX of this website is as follows :
 https://youtu.be/JNXS0Ap99aQ
 
